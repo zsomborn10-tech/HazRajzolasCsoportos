@@ -1,5 +1,6 @@
 import turtle
 
+#alap
 i=0
 while i<4:
     turtle.forward(100)
