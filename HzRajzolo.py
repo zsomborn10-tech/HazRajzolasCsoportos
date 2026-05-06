@@ -1,4 +1,3 @@
-
 import turtle
 
 turtle.speed(5)
